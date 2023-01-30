@@ -1,11 +1,11 @@
 # KenzieHub-Gabriella-Terra
-Formulário de cadastro de tecnologias. 
-Objetivo desse projeto foi construir uma plataforma que permite catalogar todos os conhecimentos do usuário, para posteriores consultas.
-Nesse projeto desenvolvi tela de login, cadastro e Home, com grande foco em segurança de rotas e segurança de formulários. 
-Estilização atenta a funcionalidade mobile first e executada com a biblioteca React , styled-components.
-Consumindo api,trabalhando com  Context Api e Typescript.
+Technology registration form.
+The objective of this project was to build a platform that allows cataloging all the user's known programing languages, for later consultations.
+In this project I developed the login, registration and Home screen, with a strong focus on route security and form security.
+Styling pays attention to mobile-first functionality and runs with the React library, styled-components.
+Consuming api, working with Context Api and Typescript.
 
-Tecnologias utilizadas para esse projeto: YUP | TypeScript | Styled-components | React.js
+Technologies used for this project: YUP | TypeScript | Stylized Components | React.js
 
-link do vercel:
+link deploy:
 https://react-entrega-s2-formulario-de-cadastro-gabriella-terra.vercel.app/Log
